@@ -1,1 +1,1 @@
-# linux-basics
+[리눅스 기초]
